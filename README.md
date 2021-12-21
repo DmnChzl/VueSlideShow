@@ -18,7 +18,7 @@ SlideShow Support For The **Vue** Framework Made With RevealJS (FR)
 Repository:
 
 ```
-git clone https://github.com/MrDoomy/VueSlideShow.git
+git clone https://github.com/DmnChzl/VueSlideShow.git
 ```
 
 Dependencies:
